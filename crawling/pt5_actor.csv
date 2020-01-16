@@ -1,0 +1,448 @@
+movie,name,age,awarded,rate,boxoffice,budget,yield,goldenglobe,critic
+The Last Command,Emil Jannings,1884,1,40,-,-,-,-,-
+The Noose,Richard Barthelmess,1895,0,-,-,-,-,-,-
+In Old Arizona,Warner Baxter,1889,1,56,-,-,-,-,-
+Thunderbolt,George Bancroft,1882,0,45,-,-,-,-,-
+Alibi,Chester Morris,1901,0,50,-,-,-,-,-
+The Valiant,Paul Muni,1895,0,-,-,-,-,-,-
+The Patriot,Lewis Stone,1879,0,62,215294342,110000000,1.957221291,-,-
+Disraeli,George Arliss,1868,1,-,-,-,-,-,-
+The Green Goddess,George Arliss,1868,0,-,-,-,-,-,-
+The Big House,Wallace Beery,1885,0,-,-,-,-,-,-
+The Big Pond,Maurice Chevalier,1888,0,20,-,-,-,-,-
+Bulldog Drummond,Ronald Colman,1891,0,33,-,-,-,-,-
+The Rogue Song,Lawrence Tibbett,1896,0,-,-,-,-,-,-
+A Free Soul,Lionel Barrymore,1878,1,-,-,-,-,-,-
+Skippy,Jackie Cooper,1922,0,-,-,-,-,-,-
+Cimarron,Richard Dix,1893,0,55,-,-,-,-,-
+The Royal Family of Broadway,Fredric March,1897,0,-,-,-,-,-,-
+The Front Page,Adolphe Menjou,1890,0,-,,,-,-,-
+The Champ,Wallace Beery,1885,1,86,30441738,,-,-,-
+Dr. Jekyll and Mr. Hyde,Fredric March,1897,1,-,12098,,-,-,-
+The Guardsman,Alfred Lunt,1892,0,-,-,-,-,-,-
+The Private Life of Henry VIII,Charles Laughton,1899,1,-,-,-,-,-,-
+Berkeley Square,Leslie Howard,1893,0,-,-,-,-,-,-
+I Am a Fugitive from a Chain Gang,Paul Muni,1895,0,95,,,-,-,-
+It Happened One Night,Clark Gable,1901,1,98,,,-,-,-
+The Affairs of Cellini,Frank Morgan,1890,0,20,-,-,-,-,-
+The Thin Man,William Powell,1892,0,-,,,-,-,-
+The Informer,Victor McLaglen,1886,1,-,1623364,,-,-,-
+Mutiny on the Bounty,Clark Gable,1901,0,94,,,-,-,-
+Mutiny on the Bounty,Charles Laughton,1899,0,94,,,-,-,-
+Black Fury,Paul Muni,1895,0,55,-,-,-,-,-
+Mutiny on the Bounty,Franchot Tone,1905,0,94,,,-,-,-
+The Story of Louis Pasteur,Paul Muni,1895,1,-,-,-,-,-,-
+Mr. Deeds Goes to Town,Gary Cooper,1901,0,-,,,-,-,-
+Dodsworth,Walter Huston,1883,0,89,-,-,-,-,-
+My Man Godfrey,William Powell,1892,0,97,-,-,-,-,-
+San Francisco,Spencer Tracy,1900,0,10,-,-,-,-,-
+Captains Courageous,Spencer Tracy,1900,1,-,-,-,-,-,-
+Conquest,Charles Boyer,1899,0,-,-,-,-,-,-
+A Star Is Born,Fredric March,1897,0,90,434888866,36000000,12.08024628,-,-
+Night Must Fall,Robert Montgomery,1904,0,81,-,-,-,-,-
+The Life of Emile Zola,Paul Muni,1895,0,-,-,-,-,-,-
+Boys Town,Spencer Tracy,1900,1,90,,,-,-,-
+Algiers,Charles Boyer,1899,0,61,-,-,-,-,-
+Angels with Dirty Faces,James Cagney,1899,0,10,-,-,-,-,-
+The Citadel,Robert Donat,1905,0,89,-,-,-,-,-
+Pygmalion,Leslie Howard,1893,0,-,-,-,-,-,-
+"Goodbye, Mr. Chips",Robert Donat,1905,1,-,-,-,-,-,-
+Gone with the Wind,Clark Gable,1901,0,90,402352579,,-,-,-
+Wuthering Heights,Laurence Olivier,-,0,25,1742215,,-,-,-
+Babes in Arms,Mickey Rooney,1920,0,83,-,-,-,-,-
+Mr. Smith Goes to Washington,James Stewart,1908,0,-,144738,,-,-,-
+The Philadelphia Story,James Stewart,1908,1,10,411442,,-,-,-
+The Great Dictator,Charlie Chaplin,1889,0,-,969518,,-,-,-
+The Grapes of Wrath,Henry Fonda,1905,0,-,,,-,-,-
+Abe Lincoln in Illinois,Raymond Massey,1896,0,83,-,-,-,-,-
+Rebecca,Laurence Olivier,-,0,-,72275,,-,-,-
+Sergeant York,Gary Cooper,1901,1,86,16364924,,-,-,-
+Penny Serenade,Cary Grant,-,0,94,-,-,-,-,-
+The Devil and Daniel Webster,Walter Huston,1883,0,10,-,-,-,-,-
+Here Comes Mr. Jordan,Robert Montgomery,1904,0,-,,,-,-,-
+Citizen Kane,Orson Welles,1915,0,10,1594107,,-,-,-
+Yankee Doodle Dandy,James Cagney,1899,1,93,-,-,-,-,-
+Random Harvest,Ronald Colman,1891,0,89,-,-,-,-,-
+The Pride of the Yankees,Gary Cooper,1901,0,-,,,-,-,-
+Mrs. Miniver,Walter Pidgeon,1897,0,-,-,-,-,-,-
+The Pied Piper,Monty Woolley,1888,0,-,-,-,-,-,-
+Watch on the Rhine,Paul Lukas,1894,1,80,-,-,-,0,-
+Casablanca,Humphrey Bogart,1899,0,-,4374761,,-,0,-
+For Whom the Bell Tolls,Gary Cooper,1901,0,71,,,-,0,-
+Madame Curie,Walter Pidgeon,1897,0,86,,,-,0,-
+The Human Comedy,Mickey Rooney,1920,0,80,,,-,0,-
+Going My Way,Bing Crosby,1903,1,80,,,-,0,-
+Gaslight,Charles Boyer,1899,0,87,-,-,-,0,-
+Going My Way,Barry Fitzgerald,1888,0,80,,,-,0,-
+None but the Lonely Heart,Cary Grant,-,0,55,-,-,-,0,-
+Wilson,Alexander Knox,1907,0,89,848646,,-,2,-
+The Lost Weekend,Ray Milland,1907,1,-,,,-,2,-
+The Bells of St. Mary's,Bing Crosby,1903,0,-,21333333,,-,0,-
+Anchors Aweigh,Gene Kelly,1912,0,62,,,-,0,-
+The Keys of the Kingdom,Gregory Peck,1916,0,-,-,-,-,0,-
+A Song to Remember,Cornel Wilde,1912,0,-,-,-,-,0,-
+The Best Years of Our Lives,Fredric March,1897,1,-,23656620,,-,0,-
+Henry V,Laurence Olivier,-,0,-,10161099,9000000,1.129011,0,-
+The Jolson Story,Larry Parks,1914,0,79,-,-,-,0,-
+The Yearling,Gregory Peck,1916,0,10,,,-,2,-
+It's a Wonderful Life,James Stewart,1908,0,-,6130720,,-,0,-
+A Double Life,Ronald Colman,1891,1,-,-,-,-,2,-
+Body and Soul,John Garfield,1913,0,52,-,-,-,0,-
+Gentleman's Agreement,Gregory Peck,1916,0,-,-,-,-,0,-
+Life with Father,William Powell,1892,0,91,-,-,-,0,-
+Mourning Becomes Electra,Michael Redgrave,1908,0,-,-,-,-,0,-
+Hamlet,Laurence Olivier,-,1,10,4770222,18000000,0.265012333,2,-
+Johnny Belinda,Lew Ayres,1908,0,-,,,-,0,-
+The Search,Montgomery Clift,1920,0,-,434957,,-,0,-
+When My Baby Smiles at Me,Dan Dailey,1915,0,-,-,-,-,0,-
+Sitting Pretty,Clifton Webb,1889,0,79,-,-,-,0,-
+All the King's Men,Broderick Crawford,1911,1,-,9450897,55000000,0.171834491,2,-
+Champion,Kirk Douglas,1916,0,-,-,-,-,0,-
+Twelve O'Clock High,Gregory Peck,1916,0,-,,,-,0,-
+The Hasty Heart,Richard Todd,1919,0,-,-,-,-,1,-
+Sands of Iwo Jima,John Wayne,1907,0,10,,,-,0,-
+Cyrano de Bergerac,José Ferrer,1912,1,-,5822041,,-,2,-
+The Magnificent Yankee,Louis Calhern,1895,0,80,-,-,-,1,-
+Sunset Boulevard,William Holden,1918,0,98,-,-,-,0,-
+Harvey,James Stewart,1908,0,25,,,-,1,-
+Father of the Bride,Spencer Tracy,1900,0,-,89325780,,-,0,-
+The African Queen,Humphrey Bogart,1899,1,-,46921,,-,0,-
+A Streetcar Named Desire,Marlon Brando,1924,0,98,42818,,-,0,-
+A Place in the Sun,Montgomery Clift,1920,0,-,,,-,0,-
+Bright Victory,Arthur Kennedy,1914,0,81,-,-,-,1,-
+Death of a Salesman,Fredric March,1897,0,76,-,-,-,2,-
+High Noon,Gary Cooper,1901,1,50,,,-,2,-
+Viva Zapata!,Marlon Brando,1924,0,-,-,-,-,0,-
+The Bad and the Beautiful,Kirk Douglas,1916,0,96,2025,,-,0,-
+Moulin Rouge,José Ferrer,1912,0,-,-,-,-,0,-
+The Lavender Hill Mob,Alec Guinness,1914,0,10,10945,,-,0,-
+Stalag 17,William Holden,1918,1,97,,,-,0,-
+Julius Caesar,Marlon Brando,1924,0,-,10831,,-,0,-
+The Robe,Richard Burton,1925,0,-,36000000,,-,0,-
+From Here to Eternity,Montgomery Clift,1920,0,-,36416,,-,0,-
+From Here to Eternity,Burt Lancaster,1913,0,-,36416,,-,0,-
+On the Waterfront,Marlon Brando,1924,1,98,,,-,2,-
+The Caine Mutiny,Humphrey Bogart,1899,0,-,21750000,,-,0,-
+The Country Girl,Bing Crosby,1903,0,-,-,-,-,0,-
+A Star Is Born,James Mason,1909,0,90,434888866,36000000,12.08024628,0,-
+Robinson Crusoe,Dan O'Herlihy,1919,0,-,-,-,-,0,-
+Marty,Ernest Borgnine,1917,1,10,,,-,2,-
+Love Me or Leave Me,James Cagney,1899,0,67,-,-,-,0,-
+East of Eden,James Dean,1931,0,86,24079,,-,0,-
+The Man with the Golden Arm,Frank Sinatra,1915,0,86,-,-,-,0,-
+Bad Day at Black Rock,Spencer Tracy,1900,0,97,10813,,-,0,-
+The King and I,Yul Brynner,1920,1,13,,,-,0,-
+Giant,James Dean,1931,0,95,177909,,-,0,-
+Lust for Life,Kirk Douglas,1916,0,-,-,-,-,2,-
+Giant,Rock Hudson,1925,0,95,177909,,-,0,-
+Richard III,Laurence Olivier,-,0,-,2748518,,-,0,-
+The Bridge on the River Kwai,Alec Guinness,1914,1,-,27200000,,-,2,-
+Sayonara,Marlon Brando,1924,0,10,-,-,-,1,-
+A Hatful of Rain,Anthony Franciosa,1928,0,75,-,-,-,1,-
+Witness for the Prosecution,Charles Laughton,1899,0,10,7693,,-,1,-
+Wild Is the Wind,Anthony Quinn,1915,0,68,-,-,-,0,-
+Separate Tables,David Niven,1910,1,-,,,-,2,-
+The Defiant Ones,Tony Curtis,1925,0,-,-,-,-,1,-
+Cat on a Hot Tin Roof,Paul Newman,1925,0,-,,,-,0,-
+The Defiant Ones,Sidney Poitier,1927,0,-,-,-,-,1,-
+The Old Man and the Sea,Spencer Tracy,1900,0,-,67740,,-,1,-
+Ben-Hur,Charlton Heston,1923,1,-,74427638,,-,1,-
+Room at the Top,Laurence Harvey,1928,0,10,-,-,-,0,-
+Some Like It Hot,Jack Lemmon,1925,0,95,83169282,,-,0,-
+The Last Angry Man,Paul Muni,1895,0,-,-,-,-,0,-
+Anatomy of a Murder,James Stewart,1908,0,10,,,-,0,-
+Elmer Gantry,Burt Lancaster,1913,1,94,-,-,-,2,-
+Sons and Lovers,Trevor Howard,1913,0,83,-,-,-,1,-
+The Apartment,Jack Lemmon,1925,0,94,177066,,-,0,-
+The Entertainer,Laurence Olivier,-,0,-,-,-,-,1,-
+Inherit the Wind,Spencer Tracy,1900,0,-,,,-,1,-
+Judgment at Nuremberg,Maximilian Schell,1930,1,91,3100,,-,2,-
+Fanny,Charles Boyer,1899,0,56,371657,,-,0,-
+The Hustler,Paul Newman,1925,0,-,,,-,1,-
+Judgment at Nuremberg,Spencer Tracy,1900,0,91,3100,,-,0,-
+The Mark,Stuart Whitman,1928,0,-,-,-,-,0,-
+To Kill a Mockingbird,Gregory Peck,1916,1,92,599146,,-,2,-
+Birdman of Alcatraz,Burt Lancaster,1913,0,86,-,-,-,0,-
+Days of Wine and Roses,Jack Lemmon,1925,0,-,-,-,-,0,-
+Divorce Italian Style,Marcello Mastroianni,1924,0,10,131467,,-,0,-
+Lawrence of Arabia,Peter O'Toole,1932,0,98,45710874,,-,1,-
+Lilies of the Field,Sidney Poitier,1927,1,-,-,-,-,2,-
+Tom Jones,Albert Finney,1936,0,85,-,-,-,0,-
+This Sporting Life,Richard Harris,1930,0,95,813,,-,0,-
+Cleopatra,Rex Harrison,1908,0,-,57777778,,-,1,-
+Hud,Paul Newman,1925,0,-,-,-,-,0,-
+My Fair Lady,Rex Harrison,1908,1,95,72661442,,-,0,-
+Becket,Richard Burton,1925,0,75,149327,,-,1,-
+Becket,Peter O'Toole,1932,0,75,149327,,-,2,-
+Zorba the Greek,Anthony Quinn,1915,0,78,-,-,-,1,-
+Dr. Strangelove,Peter Sellers,1925,0,-,-,-,-,0,-
+Cat Ballou,Lee Marvin,1924,1,10,-,-,-,0,-
+The Spy Who Came In from the Cold,Richard Burton,1925,0,87,-,-,-,0,-
+Othello,Laurence Olivier,-,0,-,-,-,-,0,-
+The Pawnbroker,Rod Steiger,-,0,83,-,-,-,1,-
+Ship of Fools,Oskar Werner,1922,0,72,-,-,-,1,-
+A Man for All Seasons,Paul Scofield,1922,1,-,,,-,2,-
+"The Russians Are Coming, the Russians Are Coming",Alan Arkin,1934,0,-,-,-,-,0,-
+Who's Afraid of Virginia Woolf?,Richard Burton,1925,0,-,28005068,,-,1,-
+Alfie,Michael Caine,1933,0,48,35060882,60000000,0.584348033,1,-
+The Sand Pebbles,Steve McQueen,1930,0,-,,,-,1,-
+In the Heat of the Night,Rod Steiger,-,1,96,27669,,-,2,-
+Bonnie and Clyde,Warren Beatty,1937,0,88,,,-,1,-
+The Graduate,Dustin Hoffman,1937,0,-,104982118,,-,0,-
+Cool Hand Luke,Paul Newman,1925,0,10,,,-,1,-
+Guess Who's Coming to Dinner,Spencer Tracy,1900,0,-,56666667,,-,0,-
+Charly,Cliff Robertson,1923,1,-,814666,,-,1,-
+The Heart Is a Lonely Hunter,Alan Arkin,1934,0,10,-,-,-,1,-
+The Fixer,Alan Bates,1934,0,57,-,-,-,1,-
+Oliver!,Ron Moody,1924,0,-,-,-,-,0,-
+The Lion in Winter,Peter O'Toole,1932,0,-,18177,,-,2,-
+True Grit,John Wayne,1907,1,88,252276927,38000000,6.6388665,2,-
+Anne of the Thousand Days,Richard Burton,1925,0,38,,,-,1,-
+Midnight Cowboy,Dustin Hoffman,1937,0,91,44801177,,-,1,-
+"Goodbye, Mr. Chips",Peter O'Toole,1932,0,-,-,-,-,0,-
+Midnight Cowboy,Jon Voight,1938,0,91,44801177,,-,1,-
+Patton,George C. Scott,1927,1,96,61749765,,-,2,-
+I Never Sang for My Father,Melvyn Douglas,1901,0,10,-,-,-,1,-
+The Great White Hope,James Earl Jones,1931,0,-,-,-,-,1,-
+Five Easy Pieces,Jack Nicholson,1937,0,88,,,-,1,-
+Love Story,Ryan O'Neal,1941,0,67,106397186,,-,1,-
+The French Connection,Gene Hackman,1930,1,98,51700000,,-,2,-
+Sunday Bloody Sunday,Peter Finch,1916,0,94,-,-,-,1,-
+Kotch,Walter Matthau,1920,0,75,-,-,-,0,-
+The Hospital,George C. Scott,1927,0,10,-,-,-,1,-
+Fiddler on the Roof,Topol,1935,0,83,10404330,,-,0,-
+The Godfather,Marlon Brando,1924,1,98,246120974,6000000,41.02016233,2,-
+Sleuth,Michael Caine,1933,0,36,,,-,1,-
+Sleuth,Laurence Olivier,-,0,36,,,-,1,-
+The Ruling Class,Peter O'Toole,1932,0,-,-,-,-,0,-
+Sounder,Paul Winfield,1939,0,89,-,-,-,0,-
+Save the Tiger,Jack Lemmon,1925,1,83,-,-,-,1,-
+Last Tango in Paris,Marlon Brando,1924,0,84,36179290,,-,0,-
+The Last Detail,Jack Nicholson,1937,0,-,,,-,1,-
+Serpico,Al Pacino,1940,0,90,29829963,,-,2,-
+The Sting,Robert Redford,1936,0,-,156000000,,-,0,-
+Harry and Tonto,Art Carney,1918,1,83,-,-,-,0,-
+Murder on the Orient Express,Albert Finney,1936,0,89,352789811,55000000,6.4143602,0,-
+Lenny,Dustin Hoffman,1937,0,91,,,-,1,-
+Chinatown,Jack Nicholson,1937,0,99,29225935,,-,2,-
+The Godfather Part II,Al Pacino,1940,0,-,-,-,-,1,-
+One Flew Over the Cuckoo's Nest,Jack Nicholson,1937,1,-,108997629,,-,2,-
+The Sunshine Boys,Walter Matthau,1920,0,75,-,-,-,0,-
+Dog Day Afternoon,Al Pacino,1940,0,95,50000000,,-,1,-
+The Man in the Glass Booth,Maximilian Schell,1930,0,-,-,-,-,1,-
+"Give 'em Hell, Harry!",James Whitmore,1921,0,-,11000000,,-,1,-
+Network,Peter Finch,1916,1,92,23689877,,-,2,-
+Taxi Driver,Robert De Niro,1943,0,97,28441292,,-,1,-
+Seven Beauties,Giancarlo Giannini,1942,0,80,12408,,-,0,-
+Network,William Holden,1918,0,92,23689877,,-,0,-
+Rocky,Sylvester Stallone,1946,0,-,117235147,,-,1,-
+The Goodbye Girl,Richard Dreyfuss,1947,1,83,-,-,-,0,-
+Annie Hall,Woody Allen,1935,0,97,38287178,,-,0,-
+Equus,Richard Burton,1925,0,63,-,-,-,2,-
+A Special Day,Marcello Mastroianni,1924,0,-,,,-,1,-
+Saturday Night Fever,John Travolta,1954,0,83,237113184,,-,0,-
+Coming Home,Jon Voight,1938,1,82,32653905,,-,2,-
+Heaven Can Wait,Warren Beatty,1937,0,89,81640278,,-,0,-
+The Buddy Holly Story,Gary Busey,1944,0,-,14363400,,-,0,-
+The Deer Hunter,Robert De Niro,1943,0,94,49074243,,-,1,-
+The Boys from Brazil,Laurence Olivier,-,0,-,,,-,0,-
+Kramer vs. Kramer,Dustin Hoffman,1937,1,-,106260000,,-,2,-
+The China Syndrome,Jack Lemmon,1925,0,-,51718367,,-,1,-
+...And Justice for All.,Al Pacino,1940,0,-,-,-,-,1,-
+All That Jazz,Roy Scheider,1932,0,85,37823676,,-,0,-
+Being There,Peter Sellers,1925,0,94,30177511,,-,0,-
+Raging Bull,Robert De Niro,1943,1,94,23402117,,-,2,-
+The Great Santini,Robert Duvall,1931,0,94,4702575,,-,0,-
+The Elephant Man,John Hurt,1940,0,-,26010864,,-,1,-
+Tribute,Jack Lemmon,1925,0,48,9000000,,-,1,-
+The Stunt Man,Peter O'Toole,1932,0,-,7063886,,-,1,-
+On Golden Pond,Henry Fonda,1905,1,93,119285432,,-,2,-
+Reds,Warren Beatty,1937,0,90,40382659,32000000,1.261958094,1,-
+Atlantic City,Burt Lancaster,1913,0,10,12729675,,-,1,-
+Arthur,Dudley Moore,1935,0,-,95461682,,-,0,-
+Absence of Malice,Paul Newman,1925,0,80,40716963,,-,0,-
+Gandhi,Ben Kingsley,1943,1,84,52767889,,-,2,-
+Tootsie,Dustin Hoffman,1937,0,90,177200000,21000000,8.438095238,0,-
+Missing,Jack Lemmon,1925,0,50,14000000,,-,1,-
+The Verdict,Paul Newman,1925,0,-,53993738,,-,1,-
+My Favorite Year,Peter O'Toole,1932,0,96,20123620,,-,0,-
+Tender Mercies,Robert Duvall,1931,1,83,8443124,,-,2,-
+Educating Rita,Michael Caine,1933,0,79,14648076,,-,0,-
+"Reuben, Reuben",Tom Conti,1941,0,-,,,-,1,-
+The Dresser,Tom Courtenay,1937,0,10,5310748,,-,1,-
+The Dresser,Albert Finney,1936,0,10,5310748,,-,1,-
+Amadeus,F. Murray Abraham,1939,1,93,52066791,,-,2,-
+Starman,Jeff Bridges,1949,0,84,28744356,,-,1,-
+Under the Volcano,Albert Finney,1936,0,71,2556800,,-,1,-
+Amadeus,Tom Hulce,1953,0,93,52066791,,-,1,-
+The Killing Fields,Sam Waterston,1940,0,93,34700291,,-,1,-
+Kiss of the Spider Woman,William Hurt,1950,1,85,17009654,,-,1,-
+Witness,Harrison Ford,1942,0,-,68706993,,-,1,-
+Murphy's Romance,James Garner,1928,0,-,30867525,,-,0,-
+Prizzi's Honor,Jack Nicholson,1937,0,-,26657534,,-,0,-
+Runaway Train,Jon Voight,1938,0,85,-,-,-,2,-
+The Color of Money,Paul Newman,1925,1,-,52293982,,-,0,-
+Round Midnight,Dexter Gordon,1923,0,10,-,-,-,1,-
+Mona Lisa,Bob Hoskins,1942,0,97,5794184,,-,2,-
+Children of a Lesser God,William Hurt,1950,0,81,31853080,,-,1,-
+Salvador,James Woods,1947,0,88,1500000,,-,0,-
+Wall Street,Michael Douglas,1944,1,79,43848069,,-,2,-
+Broadcast News,William Hurt,1950,0,98,67331309,,-,0,-
+Dark Eyes,Marcello Mastroianni,1924,0,-,2201428,,-,0,-
+Ironweed,Jack Nicholson,1937,0,64,7393346,,-,1,-
+"Good Morning, Vietnam",Robin Williams,1951,0,-,123922370,,-,0,-
+Rain Man,Dustin Hoffman,1937,1,90,354825435,25000000,14.1930174,2,-
+Mississippi Burning,Gene Hackman,1930,0,87,34603943,,-,1,-
+Big,Tom Hanks,1956,0,97,151927281,,-,0,-
+Stand and Deliver,Edward James Olmos,1947,0,73,13994920,,-,1,-
+Pelle the Conqueror,Max von Sydow,1929,0,87,2063688,,-,0,-
+My Left Foot,Daniel Day-Lewis,1957,1,97,14743391,,-,1,-
+Henry V,Kenneth Branagh,1960,0,-,10161099,9000000,1.129011,0,-
+Born on the Fourth of July,Tom Cruise,1962,0,87,161001698,,-,2,-
+Driving Miss Daisy,Morgan Freeman,1937,0,81,145793296,,-,0,-
+Dead Poets Society,Robin Williams,1951,0,84,235860116,,-,1,-
+Reversal of Fortune,Jeremy Irons,1948,1,94,15445131,,-,2,-
+Dances with Wolves,Kevin Costner,1955,0,82,424208848,22000000,19.28222036,1,-
+Awakenings,Robert De Niro,1943,0,-,52096475,,-,0,-
+Cyrano de Bergerac,Gérard Depardieu,1948,0,-,5822041,,-,0,-
+The Field,Richard Harris,1930,0,-,1494399,,-,1,-
+The Silence of the Lambs,Anthony Hopkins,1937,1,96,272753884,19000000,14.35546758,1,-
+Bugsy,Warren Beatty,1937,0,85,49114016,,-,1,-
+Cape Fear,Robert De Niro,1943,0,-,182291969,,-,1,-
+The Prince of Tides,Nick Nolte,1941,0,-,74787599,,-,2,-
+The Fisher King,Robin Williams,1951,0,-,41895491,,-,0,-
+Scent of a Woman,Al Pacino,1940,1,-,134095253,,-,2,-
+Chaplin,Robert Downey Jr.,1965,0,60,9493259,,-,1,-
+Unforgiven,Clint Eastwood,1930,0,-,159157447,,-,0,-
+The Crying Game,Stephen Rea,1946,0,-,62548947,,-,0,-
+Malcolm X,Denzel Washington,1954,0,-,48169910,,-,1,-
+Philadelphia,Tom Hanks,1956,1,80,206678440,26000000,7.949170769,2,-
+In the Name of the Father,Daniel Day-Lewis,1957,0,94,65796862,,-,1,-
+What's Love Got to Do with It,Laurence Fishburne,1961,0,-,39100956,,-,0,-
+The Remains of the Day,Anthony Hopkins,1937,0,-,23237911,,-,1,-
+Schindler's List,Liam Neeson,1952,0,-,322243445,22000000,14.64742932,1,-
+Forrest Gump,Tom Hanks,1956,1,72,678151134,55000000,12.33002062,2,-
+The Shawshank Redemption,Morgan Freeman,1937,0,90,28786657,25000000,1.15146628,1,-
+The Madness of King George,Nigel Hawthorne,1929,0,-,15238689,,-,0,-
+Nobody's Fool,Paul Newman,1925,0,-,33532593,19000000,1.764873316,1,-
+Pulp Fiction,John Travolta,1954,0,92,214179088,8000000,26.772386,1,-
+Leaving Las Vegas,Nicolas Cage,1964,1,90,32029928,,-,2,0
+Mr. Holland's Opus,Richard Dreyfuss,1947,0,-,106269971,,-,1,0
+Nixon,Anthony Hopkins,1937,0,74,13681765,44000000,0.310949205,1,0
+Dead Man Walking,Sean Penn,1960,0,62,39363635,,-,1,0
+Il Postino: The Postman,Massimo Troisi,1953,0,-,-,-,-,0,0
+Shine,Geoffrey Rush,1951,1,91,35994719,,-,2,2
+Jerry Maguire,Tom Cruise,1962,0,83,273552592,50000000,5.47105184,0,0
+The English Patient,Ralph Fiennes,1962,0,-,231976425,27000000,8.591719444,1,0
+The People vs. Larry Flynt,Woody Harrelson,1961,0,-,20300385,,-,1,0
+Sling Blade,Billy Bob Thornton,1955,0,96,24444121,1000000,24.444121,0,0
+As Good as It Gets,Jack Nicholson,1937,1,85,314178011,50000000,6.28356022,0,2
+Good Will Hunting,Matt Damon,1970,0,97,225933435,,-,1,0
+The Apostle,Robert Duvall,1931,0,90,19868354,,-,0,0
+Ulee's Gold,Peter Fonda,1940,0,-,9161691,,-,2,0
+Wag the Dog,Dustin Hoffman,1937,0,85,64256513,,-,0,0
+Life Is Beautiful,Roberto Benigni,1952,1,-,230098753,,-,0,0
+Saving Private Ryan,Tom Hanks,1956,0,93,482349603,70000000,6.890708614,1,0
+Gods and Monsters,Ian McKellen,1939,0,95,6451628,10000000,0.6451628,1,2
+Affliction,Nick Nolte,1941,0,88,6330054,6000000,1.055009,1,0
+American History X,Edward Norton,1969,0,83,23875127,20000000,1.19375635,0,0
+American Beauty,Kevin Spacey,1959,1,87,356296601,15000000,23.75310673,1,0
+The Insider,Russell Crowe,1964,0,-,60289912,90000000,0.669887911,1,2
+The Straight Story,Richard Farnsworth,1920,0,-,6416325,,-,1,0
+Sweet and Lowdown,Sean Penn,1960,0,77,4525794,,-,0,0
+The Hurricane,Denzel Washington,1954,0,-,73956241,50000000,1.47912482,2,0
+Gladiator,Russell Crowe,1964,1,76,460583960,103000000,4.471688932,1,2
+Before Night Falls,Javier Bardem,1969,0,73,8601053,,-,1,0
+Cast Away,Tom Hanks,1956,0,88,429632142,90000000,4.773690467,2,0
+Pollock,Ed Harris,1950,0,81,10994533,,-,0,0
+Quills,Geoffrey Rush,1951,0,75,17989227,,-,1,0
+Training Day,Denzel Washington,1954,1,72,104876233,,-,1,0
+A Beautiful Mind,Russell Crowe,1964,0,74,316791257,58000000,5.461918224,2,2
+I Am Sam,Sean Penn,1960,0,35,97818139,,-,0,1
+Ali,Will Smith,1968,0,67,87812729,107000000,0.82067971,1,1
+In the Bedroom,Tom Wilkinson,1948,0,93,44763181,1700000,26.33128294,0,0
+The Pianist,Adrien Brody,1973,1,33,120072577,35000000,3.430645057,1,0
+Adaptation,Nicolas Cage,1964,0,-,-,-,-,0,0
+The Quiet American,Michael Caine,1933,0,-,27674124,30000000,0.9224708,1,0
+Gangs of New York,Daniel Day-Lewis,1957,0,73,193772504,100000000,1.93772504,1,2
+About Schmidt,Jack Nicholson,1937,0,85,105834556,30000000,3.527818533,2,0
+Mystic River,Sean Penn,1960,1,88,156595191,25000000,6.26380764,2,2
+Pirates of the Caribbean: The Curse of the Black Pearl,Johnny Depp,1963,0,-,654264015,140000000,4.673314393,0,1
+House of Sand and Fog,Ben Kingsley,1943,0,-,16763804,16500000,1.015988121,1,1
+Cold Mountain,Jude Law,1972,0,70,173013509,79000000,2.190044418,1,0
+Lost in Translation,Bill Murray,1950,0,95,118685453,4000000,29.67136325,0,1
+Ray,Jamie Foxx,1967,1,80,123971376,40000000,3.0992844,0,2
+Hotel Rwanda,Don Cheadle,1964,0,91,33882243,,-,1,1
+Finding Neverland,Johnny Depp,1963,0,83,116650613,25000000,4.66602452,1,1
+The Aviator,Leonardo DiCaprio,1974,0,-,213719942,110000000,1.942908564,2,1
+Million Dollar Baby,Clint Eastwood,1930,0,91,216763646,30000000,7.225454867,0,0
+Capote,Philip Seymour Hoffman,1967,1,-,49233161,7000000,7.033308714,2,2
+Hustle & Flow,Terrence Howard,1969,0,-,-,-,-,1,1
+Brokeback Mountain,Heath Ledger,1979,0,87,178062759,14000000,12.7187685,1,1
+Walk the Line,Joaquin Phoenix,1974,0,83,186438883,28000000,6.658531536,0,1
+"Good Night, and Good Luck",David Strathairn,1949,0,-,-,-,-,1,1
+The Last King of Scotland,Forest Whitaker,1961,1,87,48363516,6000000,8.060586,2,2
+Blood Diamond,Leonardo DiCaprio,1974,0,63,171720398,100000000,1.71720398,1,1
+Half Nelson,Ryan Gosling,1980,0,90,4660481,,-,0,1
+Venus,Peter O'Toole,1932,0,89,7321309,,-,1,1
+The Pursuit of Happyness,Will Smith,1968,0,-,307077295,55000000,5.583223545,1,1
+There Will Be Blood,Daniel Day-Lewis,1957,1,91,76181545,25000000,3.0472618,2,2
+Michael Clayton,George Clooney,1961,0,91,92991835,,-,1,1
+Sweeney Todd: The Demon Barber of Fleet Street,Johnny Depp,1963,0,-,152523164,50000000,3.05046328,0,1
+In the Valley of Elah,Tommy Lee Jones,1946,0,73,29541790,,-,0,0
+Eastern Promises,Viggo Mortensen,1958,0,89,56107312,,-,1,1
+Milk,Sean Penn,1960,1,93,54586584,20000000,2.7293292,1,2
+The Visitor,Richard Jenkins,1947,0,-,-,-,-,0,1
+Frost/Nixon,Frank Langella,1938,0,-,27426335,25000000,1.0970534,1,1
+The Curious Case of Benjamin Button,Brad Pitt,1963,0,-,333932083,150000000,2.226213887,1,1
+The Wrestler,Mickey Rourke,1952,0,98,44703995,6000000,7.450665833,2,1
+Crazy Heart,Jeff Bridges,1949,1,90,47405566,7000000,6.772223714,2,2
+Up in the Air,George Clooney,1961,0,14,166842739,25000000,6.67370956,1,1
+A Single Man,Colin Firth,1960,0,-,24964890,7000000,3.566412857,1,1
+Invictus,Morgan Freeman,1937,0,76,122426792,60000000,2.040446533,1,1
+The Hurt Locker,Jeremy Renner,1971,0,97,49230772,15000000,3.282051467,0,1
+The King's Speech,Colin Firth,1960,1,-,414242458,15000000,27.61616387,2,2
+Biutiful,Javier Bardem,1969,0,65,25147786,,-,0,0
+True Grit,Jeff Bridges,1949,0,88,252276927,38000000,6.6388665,0,1
+The Social Network,Jesse Eisenberg,1983,0,96,224920315,40000000,5.623007875,1,1
+127 Hours,James Franco,1978,0,93,60738797,18000000,3.374377611,1,1
+The Artist,Jean Dujardin,1972,1,95,133432856,15000000,8.895523733,0,1
+A Better Life,Demián Bichir,1963,0,85,1863506,10000000,0.1863506,0,0
+The Descendants,George Clooney,1961,0,-,177243185,,-,2,2
+Tinker Tailor Soldier Spy,Gary Oldman,1958,0,83,80630608,,-,0,0
+Moneyball,Brad Pitt,1963,0,94,110206216,50000000,2.20412432,1,1
+Lincoln,Daniel Day-Lewis,1957,1,-,275293450,65000000,4.235283846,2,2
+Silver Linings Playbook,Bradley Cooper,1975,0,92,236412453,21000000,11.25773586,0,1
+Les Misérables,Hugh Jackman,1968,0,-,441809770,61000000,7.242783115,0,1
+The Master,Joaquin Phoenix,1974,0,-,28258060,,-,1,1
+Flight,Denzel Washington,1954,0,-,161772375,31000000,5.21846371,1,1
+Dallas Buyers Club,Matthew McConaughey,1969,1,-,55198285,5000000,11.039657,2,2
+American Hustle,Christian Bale,1974,0,92,251171807,40000000,6.279295175,0,1
+Nebraska,Bruce Dern,1936,0,91,27682872,12000000,2.306906,0,1
+The Wolf of Wall Street,Leonardo DiCaprio,1974,0,-,392000694,100000000,3.92000694,0,0
+12 Years a Slave,Chiwetel Ejiofor,1977,0,95,187733202,20000000,9.3866601,1,1
+The Theory of Everything,Eddie Redmayne,1982,1,-,123726688,15000000,8.248445867,2,1
+Foxcatcher,Steve Carell,1962,0,87,19206513,,-,1,0
+American Sniper,Bradley Cooper,1975,0,72,547426372,58800000,9.309972313,0,0
+The Imitation Game,Benedict Cumberbatch,1976,0,90,233555708,,-,1,1
+Birdman,Michael Keaton,1951,0,-,-,-,-,0,2
+The Revenant,Leonardo DiCaprio,1974,1,-,532950503,135000000,3.947781504,2,2
+Trumbo,Bryan Cranston,1956,0,74,8235661,,-,1,1
+The Martian,Matt Damon,1970,0,91,630161890,108000000,5.834832315,0,1
+Steve Jobs,Michael Fassbender,1977,0,10,34441873,30000000,1.148062433,1,1
+The Danish Girl,Eddie Redmayne,1982,0,68,64191523,,-,1,1
+Manchester by the Sea,Casey Affleck,1975,1,96,78988148,9000000,8.776460889,2,2
+Hacksaw Ridge,Andrew Garfield,1983,0,85,175302354,40000000,4.38255885,1,1
+La La Land,Ryan Gosling,1980,0,91,446092357,30000000,14.86974523,0,1
+Captain Fantastic,Viggo Mortensen,1958,0,82,22787101,,-,1,0
+Fences,Denzel Washington,1954,0,-,64414761,24000000,2.683948375,1,1
+Darkest Hour,Gary Oldman,1958,1,-,150847207,,-,2,2
+Call Me by Your Name,Timothée Chalamet,1995,0,95,41887595,,-,1,1
+Phantom Thread,Daniel Day-Lewis,1957,0,91,47756590,,-,1,1
+Get Out,Daniel Kaluuya,1989,0,98,255413717,4500000,56.75860378,0,1
+"Roman J. Israel, Esq.",Denzel Washington,1954,0,-,13025860,22000000,0.592084545,1,0
+Bohemian Rhapsody,Rami Malek,1981,1,60,903655259,52000000,17.37798575,2,1
+Vice,Christian Bale,1974,0,-,76073488,,-,0,2
+A Star Is Born,Bradley Cooper,1975,0,90,434888866,36000000,12.08024628,1,1
+At Eternity's Gate,Willem Dafoe,1955,0,-,11178811,,-,1,1
+Green Book,Viggo Mortensen,1958,0,78,321752656,23000000,13.98924591,0,1
